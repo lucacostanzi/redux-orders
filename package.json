@@ -2,6 +2,7 @@
   "name": "react-redux-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://lucacostanzi.github.io/redux-orders/",
   "dependencies": {
     "immutable": "^3.8.2",
     "lodash": "^4.17.5",
