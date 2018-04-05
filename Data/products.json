@@ -1,0 +1,32 @@
+[
+  {
+    "id": "A101",
+    "description": "Lightsaber",
+    "category": "1",
+    "price": "9.75"
+  },
+  {
+    "id": "A102",
+    "description": "Flamethrower",
+    "category": "1",
+    "price": "49.50"
+  },
+  {
+    "id": "B101",
+    "description": "Rocket launcher",
+    "category": "2",
+    "price": "4.99"
+  },
+  {
+    "id": "B102",
+    "description": "Mortar",
+    "category": "2",
+    "price": "4.99"
+  },
+  {
+    "id": "B103",
+    "description": "Jetpack",
+    "category": "3",
+    "price": "12.95"
+  }
+]

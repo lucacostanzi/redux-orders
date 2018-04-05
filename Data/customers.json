@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "name": "Mark Zuckenbra",
+    "since": "2018-08-21",
+    "revenue": "3.32"
+  },
+  {
+    "id": "2",
+    "name": "Voldemort",
+    "since": "2011-01-15",
+    "revenue": "11.95"
+  },
+  {
+    "id": "3",
+    "name": "Tow Sawyer",
+    "since": "2000-02-17",
+    "revenue": "0.00"
+  }
+]
